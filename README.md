@@ -1,2 +1,2 @@
 # PrimerProyecto2
-Creación de Software para taller mecanico
+Creación de Software  movil para taller mecanico
